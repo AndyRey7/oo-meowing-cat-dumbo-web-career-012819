@@ -6,5 +6,5 @@ class Cat
   def meow
     puts "Meow!"
   end
-  binding.pry
+  
 end
